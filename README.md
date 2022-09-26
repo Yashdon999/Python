@@ -6,5 +6,3 @@ asdf
 
 asdf
 
-asdf
-
